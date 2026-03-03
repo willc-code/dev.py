@@ -5,7 +5,7 @@ A personal repository documenting my passion project of learning Python from scr
 I have background in tech sales, data analyst and product management, and I'm building coding skills to better understand automation, data tools, and software development — and to eventually build tools that solve real business problems.
 
 ## About Me
-- 💼 Sales & Product Manager at an AgriTech IoT solutions company
+- 💼 Product & Growth Manager at an AgriTech IoT solutions company
 - 🌱 Self-taught Python learner
 - 🤖 Passionate about automation and building practical tools
 
