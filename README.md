@@ -2,7 +2,7 @@
 
 A personal repository documenting my passion project of learning Python from scratch.
 
-I have background in tech sales, data analyst and product management, and I'm building coding skills to better understand automation, data tools, and software development — and to eventually build tools that solve real business problems.
+I have background in tech sales, data analysis and product management, and I'm building coding skills to better understand automation and software development — and to eventually build tools that solve real business problems.
 
 ## About Me
 - 💼 Product & Growth Manager at an AgriTech IoT solutions company
