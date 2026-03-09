@@ -1,6 +1,6 @@
 # Treasure Island Game
 
-About: An interactive CLI Treasure Island Game. 
+About: An interactive CLI treasure hunting game on Treasure Island. 
 
 ## How to use 
 
