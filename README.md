@@ -2,12 +2,13 @@
 
 A personal repository documenting my passion project of learning Python from scratch.
 
-I have background in tech sales, data analysis and product management, and I'm building coding skills to better understand automation and software development — and to eventually build tools that solve real business problems.
+I have background in tech sales, data analysis and product management. I'm building coding skills to better understand software development and to eventually build tools that solve real business problems.
 
 ## About Me
 - 💼 Product & Growth Manager at an AgriTech IoT solutions company
 - 🌱 Self-taught Python learner
-- 🤖 Passionate about automation and building practical tools
+- 🤖 Passionate about bridging tech and the commercial world
+- 🏊 Outside of work, I enjoy long distance open water swimming and Lindy Hop
 
 ## Projects
 
@@ -21,9 +22,9 @@ I have background in tech sales, data analysis and product management, and I'm b
 
 
 ## Goals
-- Build practical Python scripts and automation tools
-- Learn software development best practices
-- Apply coding skills to real-world business problems
+- Learn to code and improve my technical proficiency. 
+- Learn the science behind software development and its best practices.
+- Apply coding skills to real-world business problems. 
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
