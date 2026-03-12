@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm (IntelliJ)
+.idea/
+*.iws
+*.iml
+*.ipr
