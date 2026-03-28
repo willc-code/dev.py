@@ -1,8 +1,10 @@
 # Dev-py 🐍
 
-A personal repository documenting my passion project of learning Python from scratch.
+it's a common sight in a tech office - quiet with faint smell of coffee, and keyboards clacking away. Software Engineers were at it. Glued for hours in front of the screen. It's what I see on a daily basis. The black screen with colourful characters has always been a little intimidating. One day, I decided to face my fears, and no longer wanting to feel like an outsider....
 
-I have background in tech sales, data analysis and product management. I'm building coding skills to better understand software development and to eventually build tools that solve real business problems.
+Welcome! This is a personal repository documenting my passion project of learning Python from scratch.
+
+I have background in tech sales, data analysis and product management. Fortunately, I did not study CS or IT in university. No prize for guessing my university major. So here I am! I'm building coding skills to better understand software development and to eventually build tools that solve real business problems.
 
 ## About Me
 - 💼 Product & Growth Manager at an AgriTech IoT solutions company
