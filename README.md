@@ -8,9 +8,10 @@ I have background in tech sales, data analysis and product management. Fortunate
 
 ## About Me
 - 💼 Product & Growth Manager at an AgriTech IoT solutions company.
-- 🌱 Self-taught Python learner.
+- 🌱 Self-taught, Python learner.
 - 🤖 Passionate about bridging tech and the commercial world.
 - 🏊 Outside of work, I enjoy long distance open water swimming and Lindy Hop.
+- 🐈⬜⬛🟧 and I have a calico name Mel, who is a chronic butt pat addict. 
 
 ## Projects
 
